@@ -1,2 +1,8 @@
-# Saver-ProV1
-A C# desktop application that monitors and alerts users about price changes on tech products
+# SaverPro 1.0
+SaverPro is a C# desktop application that helps users monitor and track price changes on tech products across various e-commerce platforms.
+
+## Features
+- Monitor product prices from sites like Amazon.
+- Get instant alerts when prices drop.
+- Multi-threaded price checking for performance.
+- Cloud integration with Azure for scalability.
